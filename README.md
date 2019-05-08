@@ -10,6 +10,7 @@ Following the tutorial for building a pedestal based website.
 
 # call server
 
+```
 curl -i http://127.0.0.1:8890/greet
 HTTP/1.1 200 OK
 Date: Wed, 08 May 2019 04:15:14 GMT
@@ -22,3 +23,4 @@ Transfer-Encoding: chunked
 Server: Jetty(9.3.8.v20160314)
 
 Hello, world!% 
+```
